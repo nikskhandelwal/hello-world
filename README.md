@@ -1,3 +1,2 @@
-# hello-world
-Creating my first repository 
-I am Nikhil Khandelwal. I have a 10 years of professional experience with 5+ years of client facing experience in the United States with multiple system implementations for ERP modules along with Business User trainings across US. I had led a team of around 8-10 members during these implemenation cycles. I have around 2 years of Business Analyst experience, where I had demonstrated the analytical skills unisg SQL, R, Python, Tableau, SAS, Excel, Power BI.
+The goal is to turn data into information and information into insight! - Carly Fiorina
+As rightly said above, my goal is always to talk to data, understand it throughly and then bring the data to life with some insights from the data and the surrondings influencing positively and negatively on the data. Over the course of my data science experience, I have worked on some cool projects that I want to showcase here. 
